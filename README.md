@@ -18,6 +18,12 @@
 
 hi, i'm [Sorabh Singh](https://abhishknads.me/), a passionate and creative self-taught full stack web developer and a Competitive programer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
+<p align="center">
+    <a href="https://github.com/Sorabh3127/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sorabh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sorabh3127&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
