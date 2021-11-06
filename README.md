@@ -5,7 +5,7 @@
 <a href="#">
   <img align="left" alt="Sorabh Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/https://www.linkedin.com/in/sorabh-singh-952895209/">
+<a href="https://www.linkedin.com/in/sorabh-singh-952895209/">
   <img align="left" alt="Sorabh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="#">
@@ -16,7 +16,7 @@
 
 <br />
 
-hi, i'm [Sorabh Singh](https://abhishknads.me/), a passionate and creative self-taught full stack web developer and a Competitive programer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Sorabh Singh](#), a passionate and creative self-taught full stack web developer and a Competitive programer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 <p align="center">
     <a href="https://github.com/Sorabh3127/github-readme-streak-stats">
@@ -27,9 +27,9 @@ hi, i'm [Sorabh Singh](https://abhishknads.me/), a passionate and creative self-
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](sorabh.cu.2001@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:sorabh.cu.2001@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -70,7 +70,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sorabh3127&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sorabh3127&show_icons=true&theme=gotham" alt="Sorabh Singh" />
 
 
 
