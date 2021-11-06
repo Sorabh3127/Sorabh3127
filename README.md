@@ -41,13 +41,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     
 </p>
 
-<p align="left-center">
-    <a href="https://github.com/Sorabh3127/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sorabh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sorabh3127&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
