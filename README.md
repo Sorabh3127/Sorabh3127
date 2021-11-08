@@ -30,7 +30,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:sorabh.cu.2001@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to help; 
 
 **languages and tools:**  
 
@@ -61,17 +61,17 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  4 star coder at codechef           
+🏆 <a href="https://www.codechef.com/users/sorcool" target="_blank"> 4 star </a> coder at codechef           
 🌸  Completed 0 tasks today           
-✅  Completed 669 problem solving tasks so far           
-⏳  Longest streak is 6 days
+✅  Completed 669 problem solving tasks so far
+<a href="http://www.cleartax.in"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">            
+⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sorabh3127&show_icons=true&theme=gotham" alt="Sorabh Singh" />
-
+<p align="center"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sorabh3127&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Sorabh Singh" />
 
 
 
