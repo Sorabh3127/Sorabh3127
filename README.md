@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/sorabh-singh-952895209/">
   <img align="left" alt="Sorabh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="#">
-  <img align="left" alt="Sorabh's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Sorabh3127.Sorabh3127)
 
