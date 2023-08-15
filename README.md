@@ -2,11 +2,11 @@
 <a href="https://www.instagram.com/sorabh.exe/">
   <img align="left" alt="Sorabh's Insta" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" />
 </a>
-<a href="#">
-  <img align="left" alt="Sorabh Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://leetcode.com/user2660t/">
+  <img align="left" alt="Sorabh Singh | Twitter" width="22px" src="./icon_leetcode.png" />
 </a>
 <a href="https://www.linkedin.com/in/sorabh-singh-952895209/">
-  <img align="left" alt="Sorabh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sorabh's LinkedIN" width="22px" src="./icon_inkedin.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Sorabh3127.Sorabh3127)
